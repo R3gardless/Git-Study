@@ -53,7 +53,7 @@ const post = {
         `
         res.send({ success : true, result: resultHTML });
     },
-    post: async (req, res) => {
+    article: async (req, res) => {
         const article = req.body;
 
         article['like'] = 0;
