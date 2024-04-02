@@ -13,7 +13,7 @@ function postArticle() {
         alert("작성자와 내용을 다 기입해주세요!");
     }
     else{
-        const url = "/article/post"
+        const url = "/article"
         fetch(url, {
             method: "POST",
             headers: {
