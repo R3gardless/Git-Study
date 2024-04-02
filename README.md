@@ -20,4 +20,4 @@ npm run start
 ```
 
 ### PR Rule
-- squash
+- merge
