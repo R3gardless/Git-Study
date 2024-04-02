@@ -18,3 +18,6 @@
 npm install
 npm run start
 ```
+
+### PR Rule
+- Rebase and Merge
